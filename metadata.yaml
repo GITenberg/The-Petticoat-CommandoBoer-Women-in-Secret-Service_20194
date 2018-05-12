@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9143
     wikipedia: http://en.wikipedia.org/wiki/Johanna_Brandt
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20194#The-Petticoat-CommandoBoer-Women-in-Secret-Service
 gutenberg_bookshelf: Boer War
 gutenberg_issued: '2006-12-26'
 gutenberg_type: Text
